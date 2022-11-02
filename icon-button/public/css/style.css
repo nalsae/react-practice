@@ -44,3 +44,35 @@ output {
   z-index: 1000;
   font-size: 2rem;
 }
+
+.button-group {
+  display: flex;
+}
+
+.button-default {
+  cursor: pointer;
+  display: flex;
+  flex-flow: row nowrap;
+  justify-content: space-between;
+  align-items: center;
+  width: 89px;
+  height: 30px;
+  padding: 0 12px;
+  margin: 20px;
+  background: #ffffff;
+  box-shadow: 0px 4px 4px #dbddf0;
+  border: none;
+  border-radius: 30px;
+  color: #525577;
+  font: 700 12px 'Spoqa Han Sans Neo', sans-serif;
+}
+
+.button-disabled {
+  cursor: not-allowed;
+  color: #adaeb6;
+}
+
+.icon-disabled {
+  filter: invert(81%) sepia(12%) saturate(134%) hue-rotate(196deg)
+    brightness(200%) contrast(40%);
+}
