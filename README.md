@@ -2,8 +2,6 @@
 
 ## 📌 **Icon, UploadButton 컴포넌트 제작**
 
----
-
 ### 🔶 **To do List**
 
 - [x] UploadIcon 컴포넌트 제작
