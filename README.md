@@ -1,5 +1,7 @@
-###### Connect To Front-end
+# 📚 **React 수업 연습장**
 
-# Icon, UploadButton Component
+## 📌 **Icon, UploadButton 컴포넌트 제작**
 
-아이콘, 업로드 버튼 컴포넌트 디자인 → 개발
+- [x] UploadIcon 컴포넌트 제작
+- [x] UploadButton 컴포넌트 제작
+- [x] README.md 작성
